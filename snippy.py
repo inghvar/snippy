@@ -163,7 +163,7 @@ def edit_post(id):
 
 @error(404)
 def error404(error):
-    return u'извините, вы запрашиваете несуществующую страницу'
+    return u'Sorry, that page doesn`t exist'
 
 
 
