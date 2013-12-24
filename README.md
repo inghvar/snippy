@@ -3,6 +3,10 @@ snippy
 
 Simple online notebook with code highlighting. Use bottle.py, peewee orm, ckeditor, syntaxhighlighter
 
+config.py - settings file
+
+create_base.py - create a new database
+
 	
 installation:
 
