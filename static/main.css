@@ -1,0 +1,52 @@
+a {
+    text-decoration: none;
+}
+
+
+#content {
+    margin-right: auto;
+    margin-left: auto;
+    width: 650px;
+}
+
+#ein {
+    background: none repeat scroll 0 0 #F4F4B0;
+    border: 1px solid #D3D3D3;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -khtml-border-radius:10px;
+    border-radius: 20px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding: 30px;
+    width: 220px;
+
+}
+
+
+#form1 {
+    text-align: center;
+}
+
+
+.pos {
+    cursor: pointer;
+}
+
+.pos_span {
+    background-color: #B0F4AB;
+}
+
+#sub {
+    margin: 40px 0 0;
+}
+
+#title {
+   background-color: #B0F4AB; 
+}
+
+#admin {
+    width: 720px;
+    margin: auto;
+}
