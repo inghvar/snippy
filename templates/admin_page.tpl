@@ -24,11 +24,8 @@
 </script>
 
 <script language="JavaScript1.2">
-<!--
 
-/*
-Visit http://www.webdesign-samara.ru
-*/
+
 
 var ns6=document.getElementById&&!document.all?1:0
 
@@ -43,7 +40,7 @@ else
 folder.display="none"
 }
 
-//-->
+
 </script>
 
 <title></title>
